@@ -4,9 +4,3 @@ D:\Hoc Tap\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
 D:\Hoc Tap\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
 D:\Hoc Tap\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
 D:\Hoc Tap\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
-G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
