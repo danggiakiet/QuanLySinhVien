@@ -1,0 +1,144 @@
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\BUS_QuanLy.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\DTO_QuanLy.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\DAL_QuanLy.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\BUS_QuanLy.pdb
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\DTO_QuanLy.pdb
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\DAL_QuanLy.pdb
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.SuggestedBindingRedirects.cache
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_ThongTin.resources
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\EnvDTE.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\stdole.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_BaoCao.resources
+D:\Hoc Tap\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_DangNhap.resources
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\BUS_QuanLy.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\DTO_QuanLy.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\DAL_QuanLy.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\EnvDTE.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\stdole.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\BUS_QuanLy.pdb
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\DTO_QuanLy.pdb
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\DAL_QuanLy.pdb
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_BaoCao.resources
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_DangNhap.resources
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.GUI_ThongTin.resources
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+G:\My Drive\Lap Trinh ADO.Net\BaoCaoCuoiKy\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
